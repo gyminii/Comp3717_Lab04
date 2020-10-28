@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab04</string>
+    <string-array name="foods">
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Bakery</item>
+    </string-array>
+
+</resources>
